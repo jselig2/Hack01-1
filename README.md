@@ -4,4 +4,4 @@ Amanda Whitlatch
 Jayden Larsen
 Cole Braun
 Jackson Selig
-https://github.com/AmandaWhitlatch/Hack01/blob/master/hello.c
+https://github.com/jselig2/Hack01-1/blob/master/hello.c
